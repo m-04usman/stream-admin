@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "postId": "1",
+        "user": "FanBoy1",
+        "content": "Great advice!",
+        "status": "Approved"
+    },
+    {
+        "id": "2",
+        "postId": "2",
+        "user": "Hater22",
+        "content": "This is fake!",
+        "status": "Reported"
+    },
+    {
+        "id": "3",
+        "postId": "2",
+        "user": "NiceGuy",
+        "content": "Solid content, keep it up.",
+        "status": "Approved"
+    }
+]

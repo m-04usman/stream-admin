@@ -1,0 +1,43 @@
+{
+    "appConfig": {
+        "maintenanceMode": false,
+        "allowNewSignups": true,
+        "maxStreamBitrate": 6000
+    },
+    "roles": [
+        {
+            "role": "Admin",
+            "permissions": [
+                "all"
+            ]
+        },
+        {
+            "role": "Moderator",
+            "permissions": [
+                "users.view",
+                "users.block",
+                "posts.view",
+                "posts.hide",
+                "streams.view",
+                "streams.stop",
+                "streams.warn",
+                "reports.view",
+                "reports.resolve",
+                "analytics.view"
+            ]
+        },
+        {
+            "role": "User",
+            "permissions": [
+                "posts.view",
+                "streams.view",
+                "analytics.view"
+            ]
+        }
+    ],
+    "notifications": {
+        "emailEnabled": true,
+        "pushEnabled": false,
+        "smsEnabled": false
+    }
+}

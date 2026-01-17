@@ -1,0 +1,14 @@
+[
+    {
+        "id": "l1",
+        "admin": "SuperAdmin",
+        "action": "Blocked User #3",
+        "timestamp": "2024-01-17T11:00:00Z"
+    },
+    {
+        "id": "l2",
+        "admin": "Mod1",
+        "action": "Hidden Post #3",
+        "timestamp": "2024-01-17T10:30:00Z"
+    }
+]

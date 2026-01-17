@@ -1,0 +1,45 @@
+{
+    "summary": {
+        "totalUsers": 12500,
+        "activeStreams": 42,
+        "pendingReports": 12,
+        "revenue": 15400
+    },
+    "chartData": [
+        {
+            "date": "2024-01-11",
+            "users": 1000,
+            "viewers": 15000
+        },
+        {
+            "date": "2024-01-12",
+            "users": 1100,
+            "viewers": 18000
+        },
+        {
+            "date": "2024-01-13",
+            "users": 1050,
+            "viewers": 16000
+        },
+        {
+            "date": "2024-01-14",
+            "users": 1300,
+            "viewers": 22000
+        },
+        {
+            "date": "2024-01-15",
+            "users": 1400,
+            "viewers": 25000
+        },
+        {
+            "date": "2024-01-16",
+            "users": 1350,
+            "viewers": 21000
+        },
+        {
+            "date": "2024-01-17",
+            "users": 1500,
+            "viewers": 28000
+        }
+    ]
+}
