@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "name": "John Doe",
+        "email": "admin@stream.com",
+        "role": "Admin",
+        "status": "Active",
+        "password": "password123"
+    },
+    {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "mod@stream.com",
+        "role": "Moderator",
+        "status": "Active",
+        "password": "password123"
+    },
+    {
+        "id": "3",
+        "name": "Bob Johnson",
+        "email": "user@stream.com",
+        "role": "User",
+        "status": "Active",
+        "password": "password123"
+    },
+    {
+        "id": "4",
+        "name": "Alice Brown",
+        "email": "alice@example.com",
+        "role": "User",
+        "status": "Active",
+        "password": "password123"
+    },
+    {
+        "id": "5",
+        "name": "Charlie Wilson",
+        "email": "charlie@example.com",
+        "role": "User",
+        "status": "Active",
+        "password": "password123"
+    }
+]

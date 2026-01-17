@@ -1,0 +1,16 @@
+[
+    {
+        "id": "r1",
+        "type": "Offensive Language",
+        "target": "Comment #2",
+        "reporter": "User55",
+        "status": "Pending"
+    },
+    {
+        "id": "r2",
+        "type": "Copyright",
+        "target": "Stream #s1",
+        "reporter": "MediaCorp",
+        "status": "Investigating"
+    }
+]
